@@ -53,11 +53,6 @@ Write an SQL query to find the number of visits each provider has had. Display t
 ### 5. Complex Join With Conditions
 Write an SQL query to find all patients who have had visits that required admission. Display the ```patient_id, first_name, last_name, admission_date``` and ```discharge_date```. Ensure you join all relevant tables to get this information.
 
-<br/>
-
-### Bonus Question (optional)
-Write an SQL query to find the details of patients who have had visits, including their ```first_name, last_name, date_of_birth``` and the details of the visits they have had, including ```provider_name, visit_date, blood_pressure_systolic, blood_pressure_diastolic``` and ```visit_status```. Additionally, include information about the admissions and discharges related to these visits. Display patients who had admissions where the discharge disposition was 'Home', and order the results by the ```date_of_visit``` in descending order.
-
 <br/><br/>
 
 # NOTE: Do not fork this repository
